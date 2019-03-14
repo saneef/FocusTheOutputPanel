@@ -1,0 +1,3 @@
+[
+	{ "keys": ["primary+shift+,"], "command": "focus_the_find_results_panel" }
+]
